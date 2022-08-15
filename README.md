@@ -1,6 +1,6 @@
 # Sample page for model and dataset sharing
 
-You can use the [D3AI](https://github.com/quarterrr/) to maintain and preview the content for your dataset and models.
+You can use the [D3AI](https://github.com/quarterrr/) to preview the content for your dataset and models.
 
 ## Milestone
 1. Create sample pages to share and manage datasets within a project.
